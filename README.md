@@ -4,6 +4,7 @@ This is a repository of all my personal notes taken from the courses during my s
 - [My Personal PoliTo Notes](#my-personal-polito-notes)
   - [Disclaimer](#disclaimer)
   - [Who am I?](#who-am-i)
+  - [How to download](#how-to-download)
   - [Purpose](#purpose)
   - [Bachelor](#bachelor)
     - [Chimica](#chimica)
@@ -24,6 +25,9 @@ Furthermore, to use them you have to be currently enrolled at Politecnico.
 
 ## Who am I?
 If you are a student of Computer Engineering @ Politecnico di Torino you probably already used some of my notes for your studies. I am that guy which made notes for the principal courses of Politecnico and that published all of them in the Telegram Groups of the courses.
+
+## How to download
+[Click here](https://github.com/GrayNeel/My-Personal-PoliTo-Notes/releases/tag/all_notes) to download the zip from the release.
 
 ## Purpose
 The purpose of this repository is to manage all my notes so that you can find all of them in one single places. Furthermore, you can find here the source files so that you can personalize and update them (If you pull request some updates i will appreciate).
