@@ -16,6 +16,8 @@ This is a repository of all my personal notes taken from the courses during my s
     - [Tecnologie e Servizi di Rete](#tecnologie-e-servizi-di-rete)
     - [Information Systems Security](#information-systems-security)
     - [Cybersecurity](#cybersecurity)
+    - [Web Applications II](#web-applications-ii)
+    - [Mobile Applications Development](#mobile-applications-development)
     - [Security Verification and Testing](#security-verification-and-testing)
 
 ## Disclaimer
@@ -52,5 +54,10 @@ This is the full recap of all the arguments. I personally studied from here to p
 This is the full recap of all the arguments. I personally studied from here to pass my exam.
 ### Cybersecurity
 This is the full recap of all the arguments. I personally studied from here to pass my exam.
+### Web Applications II
+It is the join of all the slides of the course into a PDF file that is much more readable and skips some code parts.
+### Mobile Applications Development
+It is the join of all the slides of the course into a PDF file that is much more readable and skips some code parts.
+The **MAD in 10 pages** is another brief recap that contains the main arguments that are usually requested at the exam.
 ### Security Verification and Testing
 I'm working on it (June 2022) so it still UNPUBLISHED. Will update this repository soon or later with the full notes of this course. If you want to help text me on Telegram @GrayNeel
