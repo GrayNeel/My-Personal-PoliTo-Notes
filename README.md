@@ -60,4 +60,4 @@ It is the join of all the slides of the course into a PDF file that is much more
 It is the join of all the slides of the course into a PDF file that is much more readable and skips some code parts.
 The **MAD in 10 pages** is another brief recap that contains the main arguments that are usually requested at the exam.
 ### Security Verification and Testing
-I'm working on it (June 2022) so it still UNPUBLISHED. Will update this repository soon or later with the full notes of this course. If you want to help text me on Telegram @GrayNeel
+About this course two notes file are present: one regarding Sisto's part and one regarding Basile's part. They are not enough to pass the exam! You must do all laboratories since they are a huge part at the exam!
