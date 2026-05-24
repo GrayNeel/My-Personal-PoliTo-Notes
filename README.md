@@ -1,63 +1,118 @@
 # My Personal PoliTo Notes
-This is a repository of all my personal notes taken from the courses during my studies at Politecnico di Torino @ Computer Engineering.
 
-- [My Personal PoliTo Notes](#my-personal-polito-notes)
-  - [Disclaimer](#disclaimer)
-  - [Who am I?](#who-am-i)
-  - [How to download](#how-to-download)
-  - [Purpose](#purpose)
-  - [Bachelor](#bachelor)
-    - [Chimica](#chimica)
-    - [Teoria ed elaborazione dei segnali](#teoria-ed-elaborazione-dei-segnali)
-    - [Fisica I](#fisica-i)
-    - [Reti di Calcolatori](#reti-di-calcolatori)
-    - [Sistemi Operativi](#sistemi-operativi)
-  - [Master](#master)
-    - [Tecnologie e Servizi di Rete](#tecnologie-e-servizi-di-rete)
-    - [Information Systems Security](#information-systems-security)
-    - [Cybersecurity](#cybersecurity)
-    - [Web Applications II](#web-applications-ii)
-    - [Mobile Applications Development](#mobile-applications-development)
-    - [Security Verification and Testing](#security-verification-and-testing)
+A collection of personal notes from courses at **Politecnico di Torino** — Computer Engineering.
+
+- [Disclaimer](#disclaimer)
+- [Who am I?](#who-am-i)
+- [How to download](#how-to-download)
+- [Purpose](#purpose)
+- [Bachelor](#bachelor)
+  - [Chimica](#chimica)
+  - [Teoria ed elaborazione dei segnali](#teoria-ed-elaborazione-dei-segnali)
+  - [Fisica I](#fisica-i)
+  - [Reti di Calcolatori](#reti-di-calcolatori)
+  - [Sistemi Operativi](#sistemi-operativi)
+- [Master](#master)
+  - [Tecnologie e Servizi di Rete](#tecnologie-e-servizi-di-rete)
+  - [Information Systems Security](#information-systems-security)
+  - [Cybersecurity](#cybersecurity)
+  - [Web Applications II](#web-applications-ii)
+  - [Mobile Applications Development](#mobile-applications-development)
+  - [Security Verification and Testing](#security-verification-and-testing)
 
 ## Disclaimer
-All the published notes are NOT officially. This means that they are NOT verified or reviewed in any way by any Professor of Politecnico. For this reason, use them carefully as I am not responsible for any mistake that these notes may contain. 
-Since this material is coming from lessons of Politecnico you have no rights to sell them since the contents are not copyright-free.
-Furthermore, to use them you have to be currently enrolled at Politecnico.
+
+All published notes are **unofficial**. They are **not** verified or reviewed by any Professor at Politecnico. Use them carefully — I am not responsible for any mistakes they may contain.
+
+Since the material originates from Politecnico lectures, you have no right to sell it, as the content is not copyright-free. To use these notes, you must be currently enrolled at Politecnico.
 
 ## Who am I?
-If you are a student of Computer Engineering @ Politecnico di Torino you probably already used some of my notes for your studies. I am that guy which made notes for the principal courses of Politecnico and that published all of them in the Telegram Groups of the courses.
+
+If you are a Computer Engineering student at Politecnico di Torino, you have probably already used some of my notes for your studies. I'm the one who wrote notes for the main courses and published them in the Telegram groups for each course.
 
 ## How to download
-[Click here](https://github.com/GrayNeel/My-Personal-PoliTo-Notes/releases/tag/all_notes) to download the zip from the release.
+
+[Click here](https://github.com/GrayNeel/My-Personal-PoliTo-Notes/releases/tag/all_notes) to download all notes as a single zip from the latest release.
+
+Alternatively, browse and download individual files directly from the folders in this repository.
 
 ## Purpose
-The purpose of this repository is to manage all my notes so that you can find all of them in one single places. Furthermore, you can find here the source files so that you can personalize and update them (If you pull request some updates i will appreciate).
+
+This repository centralizes all my notes in one place so you can find everything easily. The source files are also available, so you can personalize and update them. Pull requests with improvements are welcome!
 
 ## Bachelor
 
 ### Chimica
-This is my first file about notes in Politecnico. It is a brief recap of the main arguments plus a formulary. Definitely not sufficient to pass the exam, but may help during your recap.
+
+| File | Description |
+|------|-------------|
+| [IT_Chimica_2019-20_v1.0.pdf](Bachelor/IT_Chimica_2019-20_v1.0.pdf) | Full notes — brief recap of the main topics |
+| [IT_(Formulario)_Chimica_2019-20_v1.0.pdf](Bachelor/IT_(Formulario)_Chimica_2019-20_v1.0.pdf) | Standalone formulary |
+
+Not sufficient on its own to pass the exam, but useful during revision.
+
 ### Teoria ed elaborazione dei segnali
-Just a formulary of all the stuff that you may find in your exam.
+
+| File | Description |
+|------|-------------|
+| [IT_(Formulario)_Teoria_ed_Elaborazione_Segnali.pdf](Bachelor/IT_(Formulario)_Teoria_ed_Elaborazione_Segnali.pdf) | Formulary of all topics you may find at the exam |
+
 ### Fisica I
-This is a resume of the "Mazzoldi, Nigro, Voci - Fisica 1" book. So these notes do not come from any Professor of Politecnico and it may be helpful after your lessons.
+
+| File | Description |
+|------|-------------|
+| [IT_Fisica_1_2020-21_v1.0.pdf](Bachelor/IT_Fisica_1_2020-21_v1.0.pdf) | Summary of the "Mazzoldi, Nigro, Voci — Fisica 1" textbook — useful after lectures |
+
 ### Reti di Calcolatori
-This is the full recap of all the arguments. I personally studied from here to pass my exam.
+
+| File | Description |
+|------|-------------|
+| [IT_Reti_di_Calcolatori_2019-20_v1.0.pdf](Bachelor/IT_Reti_di_Calcolatori_2019-20_v1.0.pdf) | Full recap of all topics — I studied from this to pass the exam |
+
 ### Sistemi Operativi
-This is the full recap of all the arguments. I personally studied from here to pass my exam.
+
+| File | Description |
+|------|-------------|
+| [IT_Sistemi_Operativi_2019-20_v1.0.pdf](Bachelor/IT_Sistemi_Operativi_2019-20_v1.0.pdf) | Full recap of all topics — I studied from this to pass the exam |
+
 ## Master
 
 ### Tecnologie e Servizi di Rete
-This is the full recap of all the arguments. I personally studied from here to pass my exam. Some arguments are not so clear so I suggest you to watch lessons too.
+
+| File | Description |
+|------|-------------|
+| [IT_Tecnologie_e_Servizi_di_Rete_2020-21_v1.0.2.pdf](Master/IT_Tecnologie_e_Servizi_di_Rete_2020-21_v1.0.2.pdf) | Full recap — some topics are complex, watching lectures alongside is recommended |
+
 ### Information Systems Security
-This is the full recap of all the arguments. I personally studied from here to pass my exam.
+
+| File | Description |
+|------|-------------|
+| [EN_Information_Systems_Security_2020-21_v1.0.pdf](Master/EN_Information_Systems_Security_2020-21_v1.0.pdf) | Full recap of all topics — I studied from this to pass the exam |
+
 ### Cybersecurity
-This is the full recap of all the arguments. I personally studied from here to pass my exam.
+
+| File | Description |
+|------|-------------|
+| [EN_Cybersecurity_2021-22_v1.0.pdf](Master/EN_Cybersecurity_2021-22_v1.0.pdf) | Full recap of all topics — I studied from this to pass the exam |
+
 ### Web Applications II
-It is the join of all the slides of the course into a PDF file that is much more readable and skips some code parts.
+
+| File | Description |
+|------|-------------|
+| [EN_WAII_Malnati_Slides_2021-22-v1.0.pdf](Master/EN_WAII_Malnati_Slides_2021-22-v1.0.pdf) | All course slides merged into a single, readable PDF (skips some code sections) |
+
 ### Mobile Applications Development
-It is the join of all the slides of the course into a PDF file that is much more readable and skips some code parts.
-The **MAD in 10 pages** is another brief recap that contains the main arguments that are usually requested at the exam.
+
+| File | Description |
+|------|-------------|
+| [EN_MAD_Malnati_Slides_2021-22-v1.0.pdf](Master/EN_MAD_Malnati_Slides_2021-22-v1.0.pdf) | All course slides merged into a single, readable PDF (skips some code sections) |
+| [EN_MAD_IN_10_PAGES_v1.0.pdf](Master/EN_MAD_IN_10_PAGES_v1.0.pdf) | **MAD in 10 pages** — quick recap of the main exam topics |
+
 ### Security Verification and Testing
-About this course two notes file are present: one regarding Sisto's part and one regarding Basile's part. They are not enough to pass the exam! You must do all laboratories since they are a huge part at the exam!
+
+| File | Description |
+|------|-------------|
+| [EN_SVT_Sisto_Notes_2021-22_v1.1.pdf](Master/EN_SVT_Sisto_Notes_2021-22_v1.1.pdf) | Notes covering Sisto's part of the course |
+| [EN_SVT_Basile_Notes_2021-22_v1.0.pdf](Master/EN_SVT_Basile_Notes_2021-22_v1.0.pdf) | Notes covering Basile's part of the course |
+
+> **Important:** these notes alone are **not enough** to pass the SVT exam. Make sure to complete all laboratories — they are a major part of the exam!
